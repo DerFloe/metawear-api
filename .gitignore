@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+bower_components
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Ignoring dist directory
+dist
